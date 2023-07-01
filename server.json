@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Vendas",
+      "price": 6999.99,
+      "createdAt": "2023-06-25T10:23:01.302Z"
+    },
+    {
+      "id": 2,
+      "description": "Compras no supermercado",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 500,
+      "createdAt": "2023-06-25T09:23:01.302Z"
+    },
+    {
+      "id": 3,
+      "description": "Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980.99,
+      "createdAt": "2023-06-26T09:23:01.302Z"
+    },
+    {
+      "description": "Desenvolvimento de website",
+      "price": 5000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-06-29T12:37:10.948Z",
+      "id": 4
+    },
+    {
+      "description": "Compras da semana ",
+      "price": 400,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-29T12:54:05.783Z",
+      "id": 5
+    }
+  ]
+}
