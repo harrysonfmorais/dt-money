@@ -1,5 +1,5 @@
 import { render } from '@testing-library/react'
-import { Header } from '.'
+import { Header } from './index'
 
 test('sum', () => {
   const { getByText } = render(<Header />)
